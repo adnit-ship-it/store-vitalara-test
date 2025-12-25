@@ -48,7 +48,7 @@
       "height": {
         "mobile": "24px",
         "tablet": "28px",
-        "desktop": "44px"
+        "desktop": "144px"
       },
       "width": {
         "mobile": "auto",
@@ -60,7 +60,7 @@
       "height": {
         "mobile": "20px",
         "tablet": "26px",
-        "desktop": "32px"
+        "desktop": "132px"
       },
       "width": {
         "mobile": "auto",
@@ -71,7 +71,7 @@
     "loadingScreen": {
       "height": {
         "mobile": "20px",
-        "desktop": "132px"
+        "desktop": "332px"
       },
       "width": {
         "mobile": "auto",
@@ -82,7 +82,7 @@
       "height": {
         "mobile": "34px",
         "tablet": "38px",
-        "desktop": "85px"
+        "desktop": "185px"
       },
       "width": {
         "mobile": "192px",
@@ -94,7 +94,7 @@
       "height": {
         "mobile": "56px",
         "tablet": "72px",
-        "desktop": "88px"
+        "desktop": "188px"
       },
       "width": {
         "mobile": "auto",
@@ -106,7 +106,7 @@
       "height": {
         "mobile": "48px",
         "tablet": "64px",
-        "desktop": "100px"
+        "desktop": "300px"
       },
       "width": {
         "mobile": "auto",
