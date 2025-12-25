@@ -14,13 +14,13 @@ export default {
     extend: {
       colors: {
         // Dynamic colors from CSS custom properties (set by branding API)
-        backgroundColor: '#EBF2EE',
-        bodyColor: '#4A4A4A',
+        backgroundColor: '#CACECC',
+        bodyColor: '#CF8787',
         accentColor1: {
-          DEFAULT: '#337168',
+          DEFAULT: '#45A595',
           50: 'color-mix(in srgb, #337168 50%, transparent)',
         },
-        accentColor2: '#6C9E7A',
+        accentColor2: '#BFCAC1',
       },
       fontFamily: {
         // Fonts automatically loaded from designTokens.json
