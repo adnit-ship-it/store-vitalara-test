@@ -15,23 +15,23 @@
           "show": true
         },
         "heading": {
-          "text": "Discover Your Best Self",
+          "text": "Discover Your Best S22elf",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         },
         "subheading": {
-          "text": "GLP-1, Skincare, & Wellness",
+          "text": "GLP-1, Skincare, & Welln22ess",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         },
         "bulletPoints": {
           "show": true,
           "type": "bulletpoints",
           "icon": {
-            "src": "/assets/images/brand/check.svg",
-            "color": "accentColor1"
+            "src": "/assets/images/checkmark.svg",
+            "color": "bodyColor"
           },
           "items": [
             "Trusted by experts",
